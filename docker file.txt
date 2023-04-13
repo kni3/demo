@@ -1,0 +1,1 @@
+docker is container which the application is saves as the images 
